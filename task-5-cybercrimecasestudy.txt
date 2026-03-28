@@ -1,0 +1,12 @@
+Part A – Case Study (UPI / Online Payment Fraud)
+## Case Study: UPI Fraud in India
+
+UPI (Unified Payments Interface) fraud is one of the most common cybercrimes in India, where scammers trick users into transferring money or revealing sensitive banking details.
+
+A typical fraud begins when the victim receives a phone call, SMS, or message pretending to be from a bank official, delivery service, or customer support. The fraudster creates urgency, such as claiming a problem with the bank account or offering a reward or refund. The victim is then asked to click on a fake link or scan a QR code. In some cases, the scammer sends a “collect request” and asks the user to enter their UPI PIN, falsely stating that it is required to receive money.
+
+Students and young users are often targeted because they actively use digital payment apps and may not be fully aware of such scams. People who are new to online banking are also easy targets.
+
+The consequences can be severe. Victims may lose money instantly, and in many cases, it is difficult to recover. It can also lead to stress, loss of trust in digital systems, and misuse of personal information.
+
+This case highlights the importance of awareness, careful verification, and safe digital practices while using online payment platforms.
